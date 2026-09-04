@@ -1,0 +1,27 @@
+* 4c75090 (HEAD -> main) docs: adiciona reflexao final sobre o projeto
+* f9e9052 chore: adiciona licença MIT
+*   ee85392 merge: incorpora revisão de linguagem
+|\  
+| * 1429bef (review/linguagem) docs: revisa clareza textual do módulo de introdução
+|/  
+*   3ee9c6f fix: resolve conflito de merge no README e documenta decisão
+|\  
+| * 85b0289 (feature/ajuste-objetivo) docs: refina objetivo do guia (branch feature)
+* | 4082cd9 docs: ajusta objetivo do guia (branch main)
+|/  
+*   f52d9ec merge: incorpora exercícios, referências e exemplo
+|\  
+| * de3bd13 (feature/exercicios) feat: adiciona exemplo completo de policy multi-tenant
+| * c54e5be docs: adiciona referências oficiais
+| * af340c1 feat: adiciona exercícios do módulo 1
+|/  
+*   b116452 merge: incorpora módulos de introdução e conceitos
+|\  
+| * 2c81a8b (feature/secao-01) docs: adiciona conceitos de policies e auth.uid
+| * 227a455 docs: adiciona introdução ao RLS
+|/  
+*   d043f19 merge: incorpora README inicial (feature/readme)
+|\  
+| * fd55a60 (feature/readme) docs: estrutura README inicial
+|/  
+* cf29b2c chore: inicializa repositório do guia
