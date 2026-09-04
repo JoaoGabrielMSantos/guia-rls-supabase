@@ -1,7 +1,7 @@
 # Guia de RLS (Row Level Security) no Supabase para Aplicações Multi-Tenant
 
 ## Objetivo
-Este guia apresenta os fundamentos teóricos e práticos de Row Level Security (RLS) no Supabase, aplicados a sistemas multi-tenant.
+Este guia apresenta os fundamentos teóricos e práticos de Row Level Security (RLS) no Supabase, com foco em cenários reais de aplicações SaaS multi-tenant.
 
 ## Público-alvo
 Estudantes e desenvolvedores com conhecimento básico de SQL e PostgreSQL que estão iniciando com Supabase.
