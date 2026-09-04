@@ -14,4 +14,4 @@ Em um SaaS multi-tenant, vários clientes (tenants) compartilham a mesma tabela.
 2. Criar uma policy que define quem pode ver/alterar cada linha
 3. A policy geralmente compara uma coluna (ex: `tenant_id`) com o usuário autenticado (`auth.uid()`)
 
-Sem uma policy explícita, a tabela fica bloqueada para todos por padrão — isso é intencional e é a base da segurança do modelo.
+Sem nenhuma policy criada, a tabela fica bloqueada para todos por padrão. Esse comportamento é intencional: é a base de segurança do modelo RLS.
